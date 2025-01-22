@@ -4,7 +4,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWd2M28yMGNidm5qY3ZpNnB2MTh5bGdtNmhjeWc0cHRpajcwcWR3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif">
 </div>
 
-## 📊 Sobre o Projeto
+## Sobre o Projeto
 Este repositório contém uma análise detalhada de tendências baseada no dataset [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). O projeto foi desenvolvido como parte do curso de **Data Analyst da Coder House** e tem como objetivo fornecer insights estratégicos para vendedores que atuam em marketplaces.
 
 ## 📂 Arquivos do Repositório
@@ -35,9 +35,9 @@ O dataset Olist reúne dados transacionais de um marketplace, incluindo informa�
 
 ### 🛠️ Ferramentas Utilizadas
 
-- **SQL**: Consultas e obtenção de insights.
-- **Python**: Análise de dados e visualização.
-- **Power BI**: Criação do dashboard.
+- **SQL**: linguagem para manipualaçãpo dos dados e obtenção de insights;
+- **SQL Server**: platafoma selecionada para gestão das bases de dados e construção do código SQL;
+- **Power BI**: criação do dashboar para fácil visualização com design alinhado ao perfil da marca Olist
 
 ## 🌟 Resultados Destacados
 
@@ -49,7 +49,7 @@ O dataset Olist reúne dados transacionais de um marketplace, incluindo informa�
 ## 🏁 Conclusão
 A análise demonstra como os dados podem ser utilizados para otimizar vendas e estratégias em marketplaces. Insights sobre logística, satisfação do cliente e tendências de mercado são fundamentais para decisões estratégicas.
 
-##  Microsoft Power BI
+## 📊 Microsoft Power BI - preview
 
 <div align="center">
   <img src="Dashboard_PAGE_1.png" alt="Descrição da Imagem">
