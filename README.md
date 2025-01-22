@@ -1,6 +1,8 @@
 # 🚀 Relatório Analítico de Tendências - Dataset da Olist
 
-![Dashboard Demo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXR4dGZweXE2bm1semVjcWliNWx5bHl2aHd0dHgwNmZ4b2xvZnFkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif)
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWd2M28yMGNidm5qY3ZpNnB2MTh5bGdtNmhjeWc0cHRpajcwcWR3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif">
+</div>
 
 ## 📊 Sobre o Projeto
 Este repositório contém uma análise detalhada de tendências baseada no dataset [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). O projeto foi desenvolvido como parte do curso de **Data Analyst da Coder House** e tem como objetivo fornecer insights estratégicos para vendedores que atuam em marketplaces.
@@ -46,6 +48,9 @@ O dataset Olist reúne dados transacionais de um marketplace, incluindo informa�
 
 ## 🏁 Conclusão
 A análise demonstra como os dados podem ser utilizados para otimizar vendas e estratégias em marketplaces. Insights sobre logística, satisfação do cliente e tendências de mercado são fundamentais para decisões estratégicas.
+
+##  Microsoft Power BI
+
 
 ---
 
