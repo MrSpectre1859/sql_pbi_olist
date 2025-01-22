@@ -51,6 +51,13 @@ A análise demonstra como os dados podem ser utilizados para otimizar vendas e e
 
 ##  Microsoft Power BI
 
+<div align="center">
+  <img src="Dashboard_PAGE_1.png" alt="Descrição da Imagem">
+</div>
+
+<div align="center">
+  <img src="Dashboard_PAGE_2.png" alt="Descrição da Imagem">
+</div>
 
 ---
 
